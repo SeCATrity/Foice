@@ -6,6 +6,7 @@ This repository provides a PyTorch implementation of *Foice*.
 requiring any voice sample.
 
 ## Dependencies
+* face_alignment `pip install face-alignment`
 
 ## Pre-trained models
 | Face-dependent Voice Feature Extractor  | Face-independent Voice Feature Generator |
@@ -15,8 +16,9 @@ requiring any voice sample.
 ## Voice generation
 
 ## Third-party related projects
+* Image processing - face alignment: [face_alignment](https://github.com/1adrianb/face-alignment)
 * Backbone text-to-speech model: [SV2TTS](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 ## TODO List
-* Add pre-trained model
-* Add training process
+- [ ] Add pre-trained model
+- [ ] Add training process
