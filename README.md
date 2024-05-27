@@ -12,6 +12,8 @@ requiring any voice sample.
 | --------------------------------------- | ---------------------------------------- |
 | Content Cell                            | Content Cell  |
 
+## Voice generation
+
 ## Third-party related projects
 * Backbone text-to-speech model: [SV2TTS](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
