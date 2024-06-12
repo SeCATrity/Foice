@@ -11,7 +11,7 @@ requiring any voice sample.
 ## Pre-trained models
 | Face-dependent Voice Feature Extractor  | Face-independent Voice Feature Generator |
 | --------------------------------------- | ---------------------------------------- |
-| Content Cell                            | Content Cell  |
+| [pre-trained model](https://drive.google.com/file/d/19H6uPPHkcRwOFza3dHx3xbln7-TOpCpH/view?usp=share_link) | [pre-trained model](https://drive.google.com/file/d/1Ob7WZPtRGg5hT3plpoURcN-7bPlb69cn/view?usp=share_link)  |
 
 ## Voice generation
 
