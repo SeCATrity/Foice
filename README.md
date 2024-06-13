@@ -17,7 +17,7 @@ requiring any voice sample.
 
 ## Voice generation
 
-Foice reuses the encoder and synthesizer of SV2TTS. You can find the pre-trained model from the [link](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+Foice reuses the synthesizer from SV2TTS. You can find the pre-trained synthesizer using the [link](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
 
 ## Third-party related projects
 * Image processing - face alignment: [face_alignment](https://github.com/1adrianb/face-alignment)
