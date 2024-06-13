@@ -5,13 +5,15 @@ This repository provides a PyTorch implementation of *Foice*.
 *Foice* is a generative text-to-speech model that generates multiple synthetic audios from just a single image of the person’s face, without
 requiring any voice sample.
 
+
+
 ## Dependencies
 * face_alignment `pip install face-alignment`
 
 ## Pre-trained models
 | Face-dependent Voice Feature Extractor  | Face-independent Voice Feature Generator |
 | --------------------------------------- | ---------------------------------------- |
-| [pre-trained model](https://drive.google.com/file/d/19H6uPPHkcRwOFza3dHx3xbln7-TOpCpH/view?usp=share_link) | [pre-trained model](https://drive.google.com/file/d/1Ob7WZPtRGg5hT3plpoURcN-7bPlb69cn/view?usp=share_link)  |
+| [link](https://drive.google.com/file/d/19H6uPPHkcRwOFza3dHx3xbln7-TOpCpH/view?usp=share_link) | [link](https://drive.google.com/file/d/1Ob7WZPtRGg5hT3plpoURcN-7bPlb69cn/view?usp=share_link)  |
 
 ## Voice generation
 
