@@ -9,6 +9,11 @@ requiring any voice sample.
 
 ## Dependencies
 * face_alignment `pip install face-alignment`
+* numpy
+* cv2
+* torch
+* torchvision
+* 
 
 ## Pre-trained models
 | Face-dependent Voice Feature Extractor  | Face-independent Voice Feature Generator |
@@ -17,7 +22,11 @@ requiring any voice sample.
 
 ## Voice generation
 
-Foice reuses the synthesizer from SV2TTS. You can find the pre-trained synthesizer using the [link](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+Foice reuses the `synthesizer` and `vocoder` from SV2TTS. You can find the pre-trained synthesizer using the [link](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+
+Put all pre-trained models in the folder "../F2V_models/".
+
+Run `End-to-End.ipynb` to generate voice recordings from image.
 
 ## Third-party related projects
 * Image processing - face alignment: [face_alignment](https://github.com/1adrianb/face-alignment)
