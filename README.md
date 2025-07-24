@@ -5,6 +5,7 @@ This repository provides a PyTorch implementation of *Foice*.
 *Foice* is a generative text-to-speech model that generates multiple synthetic audios from just a single image of the person’s face, without
 requiring any voice sample.
 
+Feel free to check out our demo video👉: https://drive.google.com/file/d/1Be1fgyDookg839UyV7DJbdBgx-YlD9ge/view?usp=sharing
 
 
 ## Dependencies
